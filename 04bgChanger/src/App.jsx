@@ -4,7 +4,7 @@ function App() {
   const [color,setColor]=useState("olive")
 
   return (
-    <div className="w-[126rem] min-h-screen "
+    <div className="w-[126rem] min-h-screen"
     style={{backgroundColor: color}}
     >
       <div className="w-full">
